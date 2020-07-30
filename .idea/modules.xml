@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Adding values/Problems-Adding_values.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Adding values/Problems-Adding_values.iml" group="Readability_Score/Problems-Adding_values" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Adding values/Problems-Adding_values_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Adding values/Problems-Adding_values_main.iml" group="Readability_Score/Problems-Adding_values" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Adding values/Problems-Adding_values_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Adding values/Problems-Adding_values_test.iml" group="Readability_Score/Problems-Adding_values" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula.iml" group="Readability_Score/Problems-Heron's_formula" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula_main.iml" group="Readability_Score/Problems-Heron's_formula" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula_test.iml" group="Readability_Score/Problems-Heron's_formula" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Two numbers never occur next to each other/Problems-Two_numbers_never_occur_next_to_each_other.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Two numbers never occur next to each other/Problems-Two_numbers_never_occur_next_to_each_other.iml" group="Readability_Score/Problems-Two_numbers_never_occur_next_to_each_other" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Two numbers never occur next to each other/Problems-Two_numbers_never_occur_next_to_each_other_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Two numbers never occur next to each other/Problems-Two_numbers_never_occur_next_to_each_other_main.iml" group="Readability_Score/Problems-Two_numbers_never_occur_next_to_each_other" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Two numbers never occur next to each other/Problems-Two_numbers_never_occur_next_to_each_other_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Two numbers never occur next to each other/Problems-Two_numbers_never_occur_next_to_each_other_test.iml" group="Readability_Score/Problems-Two_numbers_never_occur_next_to_each_other" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability_Score.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability_Score.iml" group="Readability_Score" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task.iml" group="Readability_Score/Readability_Score-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_main.iml" group="Readability_Score/Readability_Score-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Readability Score/task/Readability_Score-task_test.iml" group="Readability_Score/Readability_Score-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Readability_Score/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Readability_Score/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Readability_Score/util" />
+    </modules>
+  </component>
+</project>
